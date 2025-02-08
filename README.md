@@ -11,6 +11,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AzizIbrr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizIbrr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<picture>
+<source media="(prefers-color-scheme:dark)" srcset="https://raw.githubusercontent.com/Azizibrr/Azizibrr/output/snake-dark.svg" />
+<source media="(prefers-color-scheme:light)" srcset="https://raw.githubusercontent.com/Azizibrr/Azizibrr/output/snake.svg" />
 <img src="https://raw.githubusercontent.com/Azizibrr/Azizibrr/output/snake.svg" alt="Snake animation" />
+</picture>
 
 ###
