@@ -1,5 +1,5 @@
 # Hello Guys, I'm Aziz, a Full Stack Web Developer:
-🌱 I’m currently working on Semarang, Indonesia
+🌱 I’m currently working on Semarang, Indonesia<br/>
 🎓 I graduated with a degree in Informatics Engineering from Universitas PGRI Semarang in 2023
 
 ## 🌐 Socials:
